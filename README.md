@@ -29,7 +29,7 @@
 </details>
 <details style="margin: 1.5em 0; padding: 1em; border: 1px solid #ddd; border-radius: 6px; background-color: #f9f9f9;">
   <summary style="font-size: 1.1em; font-weight: 600; cursor: pointer;">
-    SHOT vs Coral Augmentation
+    SHOT vs Coral Pretraining
   </summary>
   <div align="center" style="margin-top: 1em;">
     <img src="https://i.imgur.com/6oVkmdQ.jpeg" alt="Fully Supervised Diagram" style="max-width: 100%; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -45,6 +45,24 @@
   </summary>
   <div align="center" style="margin-top: 1em;">
     <img src="https://i.imgur.com/XZPKUgc.jpeg" alt="Fully Supervised Diagram" style="max-width: 100%; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+
+  </div>
+</details>
+<details style="margin: 1.5em 0; padding: 1em; border: 1px solid #ddd; border-radius: 6px; background-color: #f9f9f9;">
+  <summary style="font-size: 1.1em; font-weight: 600; cursor: pointer;">
+    Simple Pretraining
+  </summary>
+  <div align="center" style="margin-top: 1em;">
+    <img src="https://i.imgur.com/CvEMc5p.jpeg" alt="Fully Supervised Diagram" style="max-width: 100%; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+
+  </div>
+</details>
+<details style="margin: 1.5em 0; padding: 1em; border: 1px solid #ddd; border-radius: 6px; background-color: #f9f9f9;">
+  <summary style="font-size: 1.1em; font-weight: 600; cursor: pointer;">
+    Combined Augmentation
+  </summary>
+  <div align="center" style="margin-top: 1em;">
+    <img src="https://i.imgur.com/JsZxvxw.jpeg" alt="Fully Supervised Diagram" style="max-width: 100%; height: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
   </div>
 </details>
