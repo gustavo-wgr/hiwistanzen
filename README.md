@@ -72,9 +72,6 @@ This architecture is implemented using PyTorch and trained with the following co
 - **Gradient clipping**: max norm = 1.0
 - **Evaluation**: Accuracy averaged over 10 different random seeds
 
-## How to Use
-
-
 ## Results
 <details style="margin: 1.5em 0; padding: 1em; border: 1px solid #ddd; border-radius: 6px; background-color: #f9f9f9;">
   <summary style="font-size: 1.1em; font-weight: 600; cursor: pointer;">
